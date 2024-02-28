@@ -18,17 +18,11 @@ The model is trained using the training dataset. During the training process, th
 
 ## Evaluation
 
-Once the model is trained, its performance is evaluated on the testing dataset. The evaluation metrics used for this project include accuracy, precision, recall, and F1 score. These metrics provide insights into the model's ability to correctly classify different fish species.
+Once the model is trained, its performance is evaluated on the testing dataset. The evaluation metrics used for this project include accuracy, precision. These metrics provide insights into the model's ability to correctly classify different fish species.
 
 ## Usage
 
-To use the trained model for fish recognition, follow these steps:
-
-1. Install the required dependencies mentioned in the `requirements.txt` file.
-2. Load the trained model weights.
-3. Preprocess the input fish image.
-4. Pass the preprocessed image through the model.
-5. Obtain the predicted fish species.
+(Todo)
 
 ## Results
 
